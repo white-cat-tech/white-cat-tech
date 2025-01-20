@@ -69,23 +69,16 @@ I'm a Full Stack Developer with over 8 years of experience in designing, develop
 <div style="text-align: center;">
     <div style="display: inline-block; height: 100%;">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PortgasDAce1013
-&theme=vue&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PortgasDAce1013
-&theme=github-light&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
-            <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PortgasDAce1013
-&theme=vue&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" alt="PortgasDAce1013
-'s stats" style="width:97%;"/>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PortgasDAce1013&theme=vue&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PortgasDAce1013&theme=github-light&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
+            <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PortgasDAce1013&theme=vue&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" alt="PortgasDAce1013's stats" style="width:97%;"/>
         </picture>
     </div>
 </div>
 
 <br>
 <div align="center">
- <a href="https://github.com/PortgasDAce1013
-?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=PortgasDAce1013
-&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="100%" alt="@PortgasDAce1013
-'s github-readme-stats"/></a>
+ <a href="https://github.com/PortgasDAce1013?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=PortgasDAce1013&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="100%" alt="@PortgasDAce1013's github-readme-stats"/></a>
 </div>
 
 <br>
@@ -93,15 +86,11 @@ I'm a Full Stack Developer with over 8 years of experience in designing, develop
     <div style="display: inline-block; height:100px;">
         <picture>
             <!-- Dark theme -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=PortgasDAce1013
-&theme=onestar&no-frame=true&column=8&row=1" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=PortgasDAce1013&theme=onestar&no-frame=true&column=8&row=1" />
             <!-- Light theme -->
-            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=PortgasDAce1013
-&theme=onedark&no-frame=true&column=8&row=1" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=PortgasDAce1013&theme=onedark&no-frame=true&column=8&row=1" />
             <!-- Fallback image -->
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=PortgasDAce1013
-&theme=onestar&no-frame=true&column=8&row=1" alt="@PortgasDAce1013
-'s trophy stats" />
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=PortgasDAce1013&theme=onestar&no-frame=true&column=8&row=1" alt="@PortgasDAce1013's trophy stats" />
         </picture>
     </div>
  
