@@ -2,7 +2,7 @@
 
 <h3 align="left">🖋️ SUMMARY</h3>
 <p align="left">
-I'm a Senior Full Stack Developer with 10 years of experience in designing and deploying web applications, proficient in both frontend (React, Angular, Vue.js) and backend (Django, Node.js, Laravel) frameworks. He has a strong background in developing RESTful APIs, responsive designs, and collaborating with cross-functional teams to achieve project goals. I seek to work in a company with a strategic long-term vision, aiming to grow professionally alongside a seasoned team.
+I'm a Senior Full Stack Developer with 9 years of experience in designing and deploying web applications, proficient in both frontend (React, Angular, Vue.js) and backend (Django, Node.js, Laravel) frameworks. He has a strong background in developing RESTful APIs, responsive designs, and collaborating with cross-functional teams to achieve project goals. I seek to work in a company with a strategic long-term vision, aiming to grow professionally alongside a seasoned team.
 </p>
 <div style='display:flex; flex-direction:column; align-items:center ; justify-content:center'>
 <table>
