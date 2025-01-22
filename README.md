@@ -4,7 +4,7 @@
 
 <h3 align="left">🖋️ SUMMARY</h3>
 <p align="left">
-I'm a Full Stack Developer with over 8 years of experience in designing, developing, and deploying web applications.I have expertise in both front-end and back-end technologies, including JavaScript, Python, Next.js, React, Angular, and Django, and are skilled in database management with SQL and NoSQL.I have a proven track record of enhancing user experience and optimizing application performance using Agile methodologies. I seek to contribute to a company with a strong long-term strategy, where I can grow alongside a professional team.
+I'm a Senior Full Stack Developer with 9 years of experience in designing and deploying web applications, proficient in both frontend (React, Angular, Vue.js) and backend (Django, Node.js, Laravel) frameworks. He has a strong background in developing RESTful APIs, responsive designs, and collaborating with cross-functional teams to achieve project goals. I seek to work in a company with a strategic long-term vision, aiming to grow professionally alongside a seasoned team.
 </p>
 <div style='display:flex; flex-direction:column; align-items:center ; justify-content:center'>
 <table>
@@ -66,15 +66,6 @@ I'm a Full Stack Developer with over 8 years of experience in designing, develop
   </tr>
 </table>
 <br />
-<div style="text-align: center;">
-    <div style="display: inline-block; height: 100%;">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PortgasDAce1013&theme=vue&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PortgasDAce1013&theme=github-light&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
-            <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PortgasDAce1013&theme=vue&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" alt="PortgasDAce1013's stats" style="width:97%;"/>
-        </picture>
-    </div>
-</div>
 
 <br>
 <div align="center">
@@ -85,11 +76,8 @@ I'm a Full Stack Developer with over 8 years of experience in designing, develop
 <div >
     <div style="display: inline-block; height:100px;">
         <picture>
-            <!-- Dark theme -->
             <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=PortgasDAce1013&theme=onestar&no-frame=true&column=8&row=1" />
-            <!-- Light theme -->
             <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=PortgasDAce1013&theme=onedark&no-frame=true&column=8&row=1" />
-            <!-- Fallback image -->
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=PortgasDAce1013&theme=onestar&no-frame=true&column=8&row=1" alt="@PortgasDAce1013's trophy stats" />
         </picture>
     </div>
