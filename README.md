@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+Welcome+To+My+Github+Profile;I+Am+A+Fullstack+And+Mobile+Developer.;I+Have+8+Years+Of+Experiences.)](https://git.io/typing-svg)
 
-<h3 align="center">Full Stack || Mobile Developer</h3>
-
 <h3 align="left">🖋️ SUMMARY</h3>
 <p align="left">
 I'm a Senior Full Stack Developer with 9 years of experience in designing and deploying web applications, proficient in both frontend (React, Angular, Vue.js) and backend (Django, Node.js, Laravel) frameworks. He has a strong background in developing RESTful APIs, responsive designs, and collaborating with cross-functional teams to achieve project goals. I seek to work in a company with a strategic long-term vision, aiming to grow professionally alongside a seasoned team.
