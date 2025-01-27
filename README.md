@@ -85,7 +85,10 @@ Experienced and passionate Senior Full Stack Engineer with over 10 years of expe
 
 <br>
 <div align="center">
- <a href="https://github.com/blacksanji-cook?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=blacksanji-cook&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="100%" alt="@blacksanji-cook's github-readme-stats"/></a>
+ <a href="https://github.com/blacksanji-cook?tab=repositories" style="display:flex; flex-direction:row; justify-content:center; align-items:center; gap:10px; height:200px">
+ <img src="https://github-readme-stats-one-bice.vercel.app/api?username=blacksanji-cook&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="45%"  alt="@blacksanji-cook's github-readme-stats" style="margin-bottom:10px" height="200px"/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=blacksanji-cook&layout=compact&theme=vision-friendly-dark' width="45%" height="180px">
+ </a>
 </div>
 
 <br>
