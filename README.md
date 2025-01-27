@@ -2,8 +2,26 @@
 
 <h3 align="left">🖋️ SUMMARY</h3>
 <p align="left">
-I'm a Senior Full Stack Developer with 9 years of experience in designing and deploying web applications, proficient in both frontend (React, Angular, Vue.js) and backend (Django, Node.js, Laravel) frameworks. He has a strong background in developing RESTful APIs, responsive designs, and collaborating with cross-functional teams to achieve project goals. I seek to work in a company with a strategic long-term vision, aiming to grow professionally alongside a seasoned team.
+Experienced and passionate Senior Full Stack Engineer with over 10 years of experience in designing, developing, and deploying scalable, cloud-native web applications. Proficient in JavaScript (React, Angular, Vue.js) and TypeScript for building highly interactive UIs, combined with expertise in backend development using Node.js (Express, Nest.js, Next.js), Python (Django, FastAPI), and Go. Skilled in leveraging AWS, GCP, and Azure for cloud-based architectures, implementing CI/CD pipelines, and utilizing Docker and Kubernetes for containerization and orchestration. Adept at working in agile environments, mentoring cross-functional teams, and driving clean code practices with a strong emphasis on test-driven development (TDD). Passionate about optimizing performance, adopting modern technologies, and delivering business-impactful software solutions.
 </p>
+<div style="display:flex; justify-content:center; align-items:center; gap:10px">
+<h3 align="left">CONTACT ME</h3>
+</div>
+<div style="display:flex; justify-content:center; align-items:center; gap:10px">
+<a href="https://discord.gg/blacksanji">
+<img src="https://camo.githubusercontent.com/ae76bfbcd3ea4af324682842213b28d9a7ebdd8791d8531d1b7e3b8b4d2a0302/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667"  width="50px" height="50px" style="border-radius:50%" alt=""/>
+</a>
+<a href="https://join.skype.com/invite/y0000000000">
+<img src="https://camo.githubusercontent.com/22023d4adf754bb8ffe0ef2275e6969127a8b5b48b3b832e708c7ffc58c770a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736b7970652e737667"  width="50px" height="50px" style="border-radius:50%" alt=""/>
+</a>
+<a href="https://t.me/blacksanji">
+<img src="https://camo.githubusercontent.com/39db39da6e1aac8ecc67f49a02e4a115318c211694e0a1e2b6eb775ba28c6e29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667"  width="50px" height="50px" style="border-radius:50%" alt=""/>
+</a>
+<a href="https://email.blacksanji.com">
+<img src="https://camo.githubusercontent.com/103e288a5e9194c4cbbaf416dd7652c1fa89a4b15e11b75a6bc3c8a136c22fcd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667"  width="50px" height="50px" style="border-radius:50%" alt=""/>
+</a>
+</div>
+
 <div style='display:flex; flex-direction:column; align-items:center ; justify-content:center'>
 <table>
   <tr>
