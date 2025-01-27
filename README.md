@@ -67,16 +67,16 @@ I'm a Senior Full Stack Developer with 9 years of experience in designing and de
 
 <br>
 <div align="center">
- <a href="https://github.com/PortgasDAce1013?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=PortgasDAce1013&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="100%" alt="@PortgasDAce1013's github-readme-stats"/></a>
+ <a href="https://github.com/blacksanji-cook?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=blacksanji-cook&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="100%" alt="@blacksanji-cook's github-readme-stats"/></a>
 </div>
 
 <br>
 <div >
     <div style="display: inline-block; height:100px;">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=PortgasDAce1013&theme=onestar&no-frame=true&column=8&row=1" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=PortgasDAce1013&theme=onedark&no-frame=true&column=8&row=1" />
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=PortgasDAce1013&theme=onestar&no-frame=true&column=8&row=1" alt="@PortgasDAce1013's trophy stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=blacksanji-cook&theme=onestar&no-frame=true&column=8&row=1" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=blacksanji-cook&theme=onedark&no-frame=true&column=8&row=1" />
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=blacksanji-cook&theme=onestar&no-frame=true&column=8&row=1" alt="@blacksanji-cook's trophy stats" />
         </picture>
     </div>
  
