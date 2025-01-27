@@ -8,16 +8,16 @@ Experienced and passionate Senior Full Stack Engineer with over 10 years of expe
 <h3 align="left">CONTACT ME</h3>
 </div>
 <div style="display:flex; justify-content:center; align-items:center; gap:10px">
-<a href="https://discord.gg/blacksanji" style="text-decoration:none; display:flex; justify-content:center; align-items:center; gap:10px">
-<img src="https://camo.githubusercontent.com/ae76bfbcd3ea4af324682842213b28d9a7ebdd8791d8531d1b7e3b8b4d2a0302/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667"  width="50px" height="50px" style="border-radius:50%" alt=""/>
+<a href="https://discord.gg/cook.blacklegsanji" style="text-decoration:none; display:flex; justify-content:center; align-items:center; gap:10px; border-radius:50%;">
+<img src="https://camo.githubusercontent.com/ae76bfbcd3ea4af324682842213b28d9a7ebdd8791d8531d1b7e3b8b4d2a0302/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667"  width="50px" height="50px" border-radius='50%' style="border-radius:50%" alt=""/>
 </a>
-<a href="https://join.skype.com/invite/y0000000000" style="text-decoration:none; display:flex; justify-content:center; align-items:center; gap:10px">
+<a href="https://join.skype.com/invite/jyeDvQ9SeX2O" style="text-decoration:none; display:flex; justify-content:center; align-items:center; gap:10px">
 <img src="https://camo.githubusercontent.com/22023d4adf754bb8ffe0ef2275e6969127a8b5b48b3b832e708c7ffc58c770a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736b7970652e737667"  width="50px" height="50px" style="border-radius:50%" alt=""/>
 </a>
-<a href="https://t.me/blacksanji" style="text-decoration:none; display:flex; justify-content:center; align-items:center; gap:10px">
+<a href="https://t.me/cook_blacklegsanji" style="text-decoration:none; display:flex; justify-content:center; align-items:center; gap:10px">
 <img src="https://camo.githubusercontent.com/39db39da6e1aac8ecc67f49a02e4a115318c211694e0a1e2b6eb775ba28c6e29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667"  width="50px" height="50px" style="border-radius:50%" alt=""/>
 </a> 
-<a href="https://email.blacksanji.com" style="text-decoration:none; display:flex; justify-content:center; align-items:center; gap:10px">
+<a href="https://FireFist.Portgas.D.Ace1013@gmail.com" style="text-decoration:none; display:flex; justify-content:center; align-items:center; gap:10px">
 <img src="https://camo.githubusercontent.com/103e288a5e9194c4cbbaf416dd7652c1fa89a4b15e11b75a6bc3c8a136c22fcd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667"  width="50px" height="50px" style="border-radius:50%" alt=""/>
 </a>
 </div>
