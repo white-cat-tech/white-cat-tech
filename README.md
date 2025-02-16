@@ -85,9 +85,9 @@ Experienced and passionate Senior Full Stack Engineer with over 10 years of expe
 
 <br>
 <div align="center">
- <a href="https://github.com/blacksanji-cook?tab=repositories" style="display:flex; flex-direction:row; justify-content:center; align-items:center; gap:10px;">
- <img src="https://github-readme-stats-one-bice.vercel.app/api?username=blacksanji-cook&theme=gotham&show_icons=true&count_private=ture&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="100%"  alt="@blacksanji-cook's github-readme-stats" style="margin-bottom:10px"/>
-<!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=blacksanji-cook&layout=compact&theme=vision-friendly-dark' width="45%" height="180px"> -->
+ <a href="https://github.com/kise-ryota-star?tab=repositories" style="display:flex; flex-direction:row; justify-content:center; align-items:center; gap:10px;">
+ <img src="https://github-readme-stats-one-bice.vercel.app/api?username=kise-ryota-star&theme=gotham&show_icons=true&count_private=ture&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="100%"  alt="@kise-ryota-star's github-readme-stats" style="margin-bottom:10px"/>
+<!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kise-ryota-star&layout=compact&theme=vision-friendly-dark' width="45%" height="180px"> -->
  </a>
 </div>
 
@@ -95,7 +95,7 @@ Experienced and passionate Senior Full Stack Engineer with over 10 years of expe
 <div >
     <div style="display: inline-block;width:100%">
         <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blacksanji-cook&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kise-ryota-star&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
     </div>
  
 </div>
